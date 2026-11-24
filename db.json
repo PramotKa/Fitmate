@@ -1,0 +1,641 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "avatar": "https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/524309344_1122634363055115_8486527070427809153_n.jpg",
+      "firstName": "Rif",
+      "lastName": "Taha",
+      "email": "rif@gmail.com",
+      "password": "1234",
+      "phone": "080-000-0000",
+      "bio": "ผมชอบออกกำลังกายและดูแลสุขภาพ",
+      "dob": "2005-04-09",
+      "heightCm": 175,
+      "weightKg": 68,
+      "rating": 5,
+      "favIds": [],
+      "reports": []
+    },
+    {
+      "id": "1759088425931",
+      "avatar": "https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/524309344_1122634363055115_8486527070427809153_n.jpg",
+      "firstName": "Sa",
+      "lastName": "Ta",
+      "email": "Safarif@gmail.com",
+      "password": "09",
+      "phone": "",
+      "bio": "{ ใส่ข้อมูล }",
+      "dob": "2000-01-01",
+      "heightCm": 0,
+      "weightKg": 0,
+      "rating": 0,
+      "favIds": [],
+      "reports": []
+    },
+    {
+      "id": "1759088730031",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4c1SYrcgwTRsf2slc2pjdxyo6PTr4JWQwmg&s",
+      "firstName": "Loka",
+      "lastName": "Yoman",
+      "email": "Yoman@gmail.com",
+      "phone": "0614567678",
+      "bio": "That good appication",
+      "dob": "2000-01-01",
+      "heightCm": 0,
+      "weightKg": 0,
+      "rating": 0,
+      "favIds": [],
+      "reports": []
+    },
+    {
+      "id": "1759089981015",
+      "avatar": "https://i.pinimg.com/736x/df/96/d8/df96d84e03317bba5b9961e75382ec37.jpg",
+      "firstName": "safarif",
+      "lastName": "taha",
+      "email": "a@a.com",
+      "password": "1",
+      "phone": "0987654321",
+      "bio": "I love tiktok",
+      "dob": "2005-07-01",
+      "heightCm": 175,
+      "weightKg": 52,
+      "rating": 5
+    },
+    {
+      "id": "1759148871292",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiE-skFP6b_pRelLA1YSgkq71UsSvl1TGRMQ&s",
+      "firstName": "flim",
+      "lastName": "xxd",
+      "email": "xxxx@gmal.com",
+      "phone": "093339933",
+      "bio": "kuy",
+      "dob": "2020-01-01",
+      "heightCm": 185,
+      "weightKg": 60,
+      "rating": 5,
+      "reports": [
+        {
+          "id": 1759149076273,
+          "text": "App dee",
+          "at": "2025-09-29T12:31:16.273Z"
+        }
+      ]
+    },
+    {
+      "id": "1759152899778",
+      "avatar": "https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/547378364_10225107692274125_6889311126535587775_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEOK62mI5X-2WS9b94QpOsFBLTTQdihXBQEtNNB2KFcFOnOwnRLTZT66RTB2yNYdpyUVzWPrHjhWOYM0PL9eZoM&_nc_ohc=Ml4mLCPIdGEQ7kNvwGelWoB&_nc_oc=Adm8IyJFSmMILmG3cgTOrTnJ4HzzZOnXbDre1QkS3mAO5AOuuHvUjko_k582MiBsZJxm5dnRRcWHN1UQYK2iAVgh&_nc_zt=23&_nc_ht=scontent.fbkk25-1.fna&_nc_gid=LwcUabt4-Z6-uZpklf5X_g&oh=00_AfbhAHVrM44N7sbWVWIy7CJO5jfMyADUo0jecTp8RGNs4Q&oe=68E04652",
+      "firstName": "safarif",
+      "lastName": "taha",
+      "email": "safarif1@gmail.com",
+      "password": "sa",
+      "phone": "0987654321",
+      "bio": "Hero by cj",
+      "dob": "2005-07-01",
+      "heightCm": 175,
+      "weightKg": 55,
+      "rating": 5,
+      "reports": [
+        {
+          "id": 1759153567293,
+          "text": "=kak",
+          "at": "2025-09-29T13:46:07.293Z"
+        }
+      ]
+    },
+    {
+      "id": "1795461919957",
+      "avatar": "https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/524309344_1122634363055115_8486527070427809153_n.jpg",
+      "firstName": "Bank",
+      "lastName": "ok",
+      "email": "Bank@gmail.com",
+      "password": "123456",
+      "phone": "0888888888",
+      "bio": "good",
+      "dob": "2000-01-01",
+      "heightCm": 168,
+      "weightKg": 62,
+      "rating": 5,
+      "reports": [
+        {
+          "id": 1795461986733,
+          "text": "D",
+          "at": "2026-11-23T19:26:26.733Z"
+        }
+      ],
+      "favIds": [],
+      "age": "21",
+      "sex": "male",
+      "bmi": 21.97,
+      "category": "ปกติ (เอเชีย)"
+    }
+  ],
+  "recommends": [
+    {
+      "id": "1",
+      "text": "ดื่มน้ำ 2 แก้วหลังตื่น"
+    },
+    {
+      "id": "2",
+      "text": "วอร์มอัพ 8 นาที"
+    },
+    {
+      "id": "3",
+      "text": "Plank 3x30s"
+    },
+    {
+      "id": "4",
+      "text": "วิ่งเบา ๆ 15 นาทีหลังเลิกเรียน"
+    }
+  ],
+  "contents": [
+    {
+      "id": "1",
+      "title": "Beginner Full Body Workout - 20 นาที",
+      "desc": "ออกกำลังกายทั้งตัวสำหรับมือใหม่ ไม่ต้องใช้อุปกรณ์",
+      "link": "https://www.youtube.com/watch?v=UBMk30rjy0o"
+    },
+    {
+      "id": "2",
+      "title": "10 Minute Abs Workout",
+      "desc": "ซิกแพคหน้าท้อง 10 นาที ไม่ต้องใช้อุปกรณ์",
+      "link": "https://www.youtube.com/watch?v=1919eTCoESo"
+    },
+    {
+      "id": "3",
+      "title": "HIIT Cardio Workout - 15 นาที",
+      "desc": "เบิร์นแคลอรีเร่งด่วนแบบ HIIT",
+      "link": "https://www.youtube.com/watch?v=ml6cT4AZdqI"
+    },
+    {
+      "id": "4",
+      "title": "Yoga for Beginners - 20 นาที",
+      "desc": "โยคะเบื้องต้นเพื่อความยืดหยุ่นและผ่อนคลาย",
+      "link": "https://www.youtube.com/watch?v=v7AYKMP6rOE"
+    },
+    {
+      "id": "5",
+      "title": "20 Minute Fat Burning Workout",
+      "desc": "ออกกำลังกายลดไขมันทั้งตัว",
+      "link": "https://www.youtube.com/watch?v=ml6cT4AZdqI&t=60s"
+    },
+    {
+      "id": "6",
+      "title": "Upper Body Strength Training - Dumbbell",
+      "desc": "สร้างกล้ามแขน อก หลัง ด้วยดัมเบล",
+      "link": "https://www.youtube.com/watch?v=U0bhE67HuDY"
+    },
+    {
+      "id": "7",
+      "title": "Leg Workout - 15 นาที",
+      "desc": "ท่าออกกำลังขาและก้น สำหรับบ้าน",
+      "link": "https://www.youtube.com/watch?v=2tM1LFFxeKg"
+    },
+    {
+      "id": "8",
+      "title": "Stretching Routine - 10 นาที",
+      "desc": "ยืดกล้ามเนื้อหลังออกกำลังกาย",
+      "link": "https://www.youtube.com/watch?v=VaoV1PrYft4"
+    },
+    {
+      "id": "9",
+      "title": "Pilates for Core Strength",
+      "desc": "พิลาทิสสร้างแกนกลางลำตัว",
+      "link": "https://www.youtube.com/watch?v=lCg_gh_fppI"
+    },
+    {
+      "id": "10",
+      "title": "Tabata Workout - 4 นาที",
+      "desc": "ทาบาตะเบิร์นแคลอรีสั้นแต่โหด",
+      "link": "https://www.youtube.com/watch?v=VTh8rG8St5g"
+    },
+    {
+      "id": "11",
+      "title": "30 Minute Dance Workout",
+      "desc": "เต้นมันส์เผาผลาญไขมัน",
+      "link": "https://www.youtube.com/watch?v=ZWk19OVon2k"
+    },
+    {
+      "id": "12",
+      "title": "Beginner Bodyweight Workout",
+      "desc": "ใช้แค่น้ำหนักตัว ฝึกได้ทุกที่",
+      "link": "https://www.youtube.com/watch?v=2pLT-olgUJs"
+    },
+    {
+      "id": "13",
+      "title": "Glute Workout at Home",
+      "desc": "ออกกำลังสะโพก ก้นเด้ง",
+      "link": "https://www.youtube.com/watch?v=1f8yoFFdkcY"
+    },
+    {
+      "id": "14",
+      "title": "Morning Yoga Flow - 15 นาที",
+      "desc": "ปลุกพลังตอนเช้าด้วยโยคะ",
+      "link": "https://www.youtube.com/watch?v=4C-gxOE0j7s"
+    },
+    {
+      "id": "15",
+      "title": "Cardio Kickboxing Workout",
+      "desc": "คิกบ็อกซิ่งเบิร์นแคลอรี",
+      "link": "https://www.youtube.com/watch?v=JP6p30el3TI"
+    },
+    {
+      "id": "16",
+      "title": "Full Body Dumbbell Workout - 30 นาที",
+      "desc": "ฝึกกล้ามเนื้อครบทุกส่วนด้วยดัมเบล",
+      "link": "https://www.youtube.com/watch?v=G2gV8T4YA2U"
+    },
+    {
+      "id": "17",
+      "title": "Core & Obliques Workout - 12 นาที",
+      "desc": "แกนกลางและเอวเล็กกระชับ",
+      "link": "https://www.youtube.com/watch?v=Q5qT6j3NxA4"
+    },
+    {
+      "id": "18",
+      "title": "Beginner Zumba Class",
+      "desc": "ซุมบ้ามันส์ ๆ สำหรับมือใหม่",
+      "link": "https://www.youtube.com/watch?v=FPzq_wFLmnE"
+    },
+    {
+      "id": "19",
+      "title": "Fat Burn Walking Workout",
+      "desc": "เดินในบ้านเผาผลาญไขมัน",
+      "link": "https://www.youtube.com/watch?v=QHIn4RSyX1E"
+    },
+    {
+      "id": "20",
+      "title": "Resistance Band Workout",
+      "desc": "ฝึกกล้ามเนื้อด้วยยางยืด",
+      "link": "https://www.youtube.com/watch?v=H9aQ1uvqH7o"
+    },
+    {
+      "id": "21",
+      "title": "Plank Challenge - 5 นาที",
+      "desc": "ชาเลนจ์แพลงก์ ฝึกความอึด",
+      "link": "https://www.youtube.com/watch?v=TvxNkmjdhMM"
+    },
+    {
+      "id": "22",
+      "title": "Quick Warm Up - 5 นาที",
+      "desc": "วอร์มอัพก่อนออกกำลัง",
+      "link": "https://www.youtube.com/watch?v=R0mMyV5OtcM"
+    },
+    {
+      "id": "23",
+      "title": "Cooldown Stretches - 10 นาที",
+      "desc": "ยืดเหยียดผ่อนคลายหลังออกกำลังกาย",
+      "link": "https://www.youtube.com/watch?v=sTANio_2E0Q"
+    },
+    {
+      "id": "24",
+      "title": "Beginner Push Ups Guide",
+      "desc": "ฝึกวิดพื้นสำหรับมือใหม่",
+      "link": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+    },
+    {
+      "id": "25",
+      "title": "Burpee Workout - 10 นาที",
+      "desc": "เบิร์นหนักด้วยเบอร์พี",
+      "link": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+    }
+  ],
+  "infos": [
+    {
+      "id": "1",
+      "text": "โปรตีน 1.5 กรัม/กก. น้ำหนักตัว"
+    },
+    {
+      "id": "2",
+      "text": "กินผักวันละ 2 กำมือ"
+    },
+    {
+      "id": "3",
+      "text": "นอนอย่างน้อย 7–8 ชม."
+    },
+    {
+      "id": "4",
+      "text": "งดน้ำหวาน/น้ำอัดลม ลดการสะสมพลังงานเกิน"
+    }
+  ],
+  "activities": [
+    {
+      "id": "1",
+      "time": "07:00",
+      "text": "เดินเร็ว 20 นาที"
+    },
+    {
+      "id": "2",
+      "time": "12:00",
+      "text": "ยืดสะโพก 5 ท่า"
+    },
+    {
+      "id": "3",
+      "time": "18:00",
+      "text": "วิดพื้น 3 เซ็ต"
+    },
+    {
+      "id": "4",
+      "time": "21:00",
+      "text": "อ่านหนังสือ + ยืดคอ 10 นาที"
+    },
+    {
+      "id": "fc18",
+      "time": "12:00",
+      "text": "Work up"
+    },
+    {
+      "id": "2386",
+      "time": "00:00",
+      "text": "hi",
+      "day": "today"
+    },
+    {
+      "id": "64fc",
+      "time": "3:00",
+      "text": "run",
+      "day": "tomorrow"
+    }
+  ],
+  "foods": [
+    {
+      "id": "f1",
+      "name": "สเต๊กอกไก่ย่าง",
+      "kcal": 350,
+      "cat": "เนื้อ",
+      "uri": "https://img.wongnai.com/p/1920x0/2019/11/11/2cbf6c22c4774fe2a936bf226dc24fd0.jpg"
+    },
+    {
+      "id": "f2",
+      "name": "ปลาย่างสมุนไพร",
+      "kcal": 300,
+      "cat": "เนื้อ",
+      "uri": "https://www.gourmetandcuisine.com/Images/editor_upload/_editor1505985606_original.jpg"
+    },
+    {
+      "id": "f3",
+      "name": "เนื้อวัวอบพริกไทย",
+      "kcal": 400,
+      "cat": "เนื้อ",
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMMv9zhUfb-k7r1jUPFKd1AvKuvlHo3zAeeBjM3MDG__uJS8c8w6R2J96Cdj-ZWjn0_E&usqp=CAU"
+    },
+    {
+      "id": "f4",
+      "name": "หมูย่างซีอิ๊ว",
+      "kcal": 420,
+      "cat": "เนื้อ",
+      "uri": "https://yamamoritrading.com/upload/recipe/img_2211231518360.jpg"
+    },
+    {
+      "id": "f5",
+      "name": "กุ้งอบวุ้นเส้น",
+      "kcal": 280,
+      "cat": "เนื้อ",
+      "uri": "https://img.wongnai.com/p/1920x0/2019/11/05/752860d7191340ac81f1672682c80e99.jpg"
+    },
+    {
+      "id": "f6",
+      "name": "ปลาซาบะย่างเกลือ",
+      "kcal": 310,
+      "cat": "เนื้อ",
+      "uri": "https://img.wongnai.com/p/1920x0/2020/05/23/ea17937949d54c60bf1513842ecb717a.jpg"
+    },
+    {
+      "id": "f7",
+      "name": "หมึกผัดไข่เค็ม",
+      "kcal": 330,
+      "cat": "เนื้อ",
+      "uri": "https://recipe.sgethai.com/wp-content/uploads/2025/06/cover-25062025-stir-fried-squid-with-salted-egg-yolk_result.webp"
+    },
+    {
+      "id": "f8",
+      "name": "ต้มยำไก่",
+      "kcal": 290,
+      "cat": "เนื้อ",
+      "uri": "https://recipe.sgethai.com/wp-content/uploads/2025/06/04062025-tom-yum-kai01.webp"
+    },
+    {
+      "id": "f9",
+      "name": "หอยแมลงภู่อบสมุนไพร",
+      "kcal": 270,
+      "cat": "เนื้อ",
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_HsREFGOs_3-ddmNkvDRnERN3UuEjQ5P1Q&s"
+    },
+    {
+      "id": "f10",
+      "name": "ไข่เจียวหมูสับ",
+      "kcal": 320,
+      "cat": "เนื้อ",
+      "uri": "https://s359.kapook.com/pagebuilder/cee24301-5a22-4975-9935-f1697a1cb5ac.jpg"
+    },
+    {
+      "id": "f11",
+      "name": "ซุปฟักทอง",
+      "kcal": 180,
+      "cat": "น้ำ",
+      "uri": "https://recipe.sgethai.com/wp-content/uploads/2025/05/cover-pumpkin-soup_result.webp"
+    },
+    {
+      "id": "f12",
+      "name": "สมูทตี้โยเกิร์ต",
+      "kcal": 220,
+      "cat": "น้ำ",
+      "uri": "https://img.kapook.com/u/2021/wanwanat/1552561688.jpg"
+    },
+    {
+      "id": "f13",
+      "name": "น้ำแตงโมปั่น",
+      "kcal": 150,
+      "cat": "น้ำ",
+      "uri": "https://img.kapook.com/u/surauch/movie2/watermelon-smoothie.jpg"
+    },
+    {
+      "id": "f14",
+      "name": "ชามะนาว",
+      "kcal": 120,
+      "cat": "น้ำ",
+      "uri": "https://www.1376delivery.com/productimages/9227_Lemon%20Iced%20Tea.jpg"
+    },
+    {
+      "id": "f15",
+      "name": "น้ำมะพร้าวสด",
+      "kcal": 90,
+      "cat": "น้ำ",
+      "uri": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1668342951/attached_image_th/1645-%25e0%25b8%2599%25e0%25b9%2589%25e0%25b8%25b3%25e0%25b8%25a1%25e0%25b8%25b0%25e0%25b8%259e%25e0%25b8%25a3%25e0%25b9%2589%25e0%25b8%25b2%25e0%25b8%25a7-resized.jpg"
+    },
+    {
+      "id": "f16",
+      "name": "น้ำส้มคั้น",
+      "kcal": 110,
+      "cat": "น้ำ",
+      "uri": "https://s359.kapook.com/pagebuilder/3c09c1ab-5e43-49db-99af-a985a2d8c61b.jpg"
+    },
+    {
+      "id": "f17",
+      "name": "น้ำขิงร้อน",
+      "kcal": 70,
+      "cat": "น้ำ",
+      "uri": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa4vQ0DRRpGzXbTd0KPqd9TtDijyfnzzR7H3MNZyLACc2TWP0u1KM.jpg"
+    },
+    {
+      "id": "f18",
+      "name": "น้ำเต้าหู้",
+      "kcal": 160,
+      "cat": "น้ำ",
+      "uri": "https://img.kapook.com/u/patcharin/Food/Drink/Milk/soymilk.jpg"
+    },
+    {
+      "id": "f19",
+      "name": "สมูทตี้ผักรวม",
+      "kcal": 200,
+      "cat": "น้ำ",
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDMFwUNaGjnJA8VBUK5qVUksc-deIcfXLmA&s"
+    },
+    {
+      "id": "f20",
+      "name": "ชาเขียวเย็น",
+      "kcal": 140,
+      "cat": "น้ำ",
+      "uri": "https://img.kapook.com/u/2017/surauch/cooking/u1_23.jpg"
+    },
+    {
+      "id": "f21",
+      "name": "ข้าวกล้อง + ไข่ต้ม",
+      "kcal": 420,
+      "cat": "ข้าว",
+      "uri": "https://img.wongnai.com/p/1920x0/2019/01/26/9f515270ab0e4004be70b0360bbae538.jpg"
+    },
+    {
+      "id": "f22",
+      "name": "ข้าวโอ๊ตกล้วย",
+      "kcal": 360,
+      "cat": "ข้าว",
+      "uri": "https://img-global.cpcdn.com/recipes/10cdc490dc1ad04a/680x781cq80/%E0%B8%A3%E0%B8%9B-%E0%B8%AB%E0%B8%A5%E0%B8%81-%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%AA%E0%B8%95%E0%B8%A3-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%A2%E0%B8%AB%E0%B8%AD%E0%B8%A1.jpg"
+    },
+    {
+      "id": "f23",
+      "name": "ข้าวสวย + แกงเขียวหวานไก่",
+      "kcal": 480,
+      "cat": "ข้าว",
+      "uri": "https://img.wongnai.com/p/1920x0/2018/10/18/6861b6510dfe4586860e4be096424c6a.jpg"
+    },
+    {
+      "id": "f24",
+      "name": "ข้าวกะเพราไก่ไข่ดาว",
+      "kcal": 550,
+      "cat": "ข้าว",
+      "uri": "https://www.unileverfoodsolutions.co.th/dam/global-ufs/mcos/SEA/calcmenu/recipes/TH-recipes/chicken-&-other-poultry-dishes/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%94%E0%B8%B2%E0%B8%A7/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B9%88%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%94%E0%B8%B2%E0%B8%A7_header.jpg"
+    },
+    {
+      "id": "f25",
+      "name": "โจ๊กหมู",
+      "kcal": 300,
+      "cat": "ข้าว",
+      "uri": "https://img.wongnai.com/p/1920x0/2019/07/13/872dda7293f24e9a99763c4817fec0fc.jpg"
+    },
+    {
+      "id": "f26",
+      "name": "บะหมี่ผัก + ไก่อบ",
+      "kcal": 450,
+      "cat": "ข้าว",
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQ7g9MLVbcyMMhct6-Bd95r31EjbUy8Dq9A&s0"
+    },
+    {
+      "id": "f27",
+      "name": "ข้าวเหนียวหมูปิ้ง",
+      "kcal": 500,
+      "cat": "ข้าว",
+      "uri": "https://happychoicefoods.com/wp-content/uploads/2024/07/HPC_blog7jul_cover-1024x538.jpg"
+    },
+    {
+      "id": "f28",
+      "name": "สปาเก็ตตี้ซอสมะเขือเทศ",
+      "kcal": 460,
+      "cat": "ข้าว",
+      "uri": "https://img.wongnai.com/p/1920x0/2019/11/19/9e280da5ad68453687784d6c9593014f.jpg"
+    },
+    {
+      "id": "f29",
+      "name": "ข้าวผัดกุ้ง",
+      "kcal": 480,
+      "cat": "ข้าว",
+      "uri": "https://recipe.sgethai.com/wp-content/uploads/2025/04/250425-Shrimp-Fried-Rice-cover.webp"
+    },
+    {
+      "id": "f30",
+      "name": "ราเม็งหมูชาชู",
+      "kcal": 550,
+      "cat": "ข้าว",
+      "uri": "https://api2.krua.co/wp-content/uploads/2022/10/RI1805_ImageBanner_1140x507.jpg"
+    },
+    {
+      "id": "f31",
+      "name": "โยเกิร์ตผลไม้",
+      "kcal": 230,
+      "cat": "อาหารว่าง",
+      "uri": "https://img-global.cpcdn.com/recipes/944f0d85ac029685/240x320cq80/photo.jpg"
+    },
+    {
+      "id": "f32",
+      "name": "ถั่วรวมอบ",
+      "kcal": 250,
+      "cat": "อาหารว่าง",
+      "uri": "https://www.bakeryhills.com/wp-content/uploads/2019/03/216048.jpg"
+    },
+    {
+      "id": "f33",
+      "name": "แซนด์วิชทูน่า",
+      "kcal": 280,
+      "cat": "อาหารว่าง",
+      "uri": "https://img.kapook.com/u/surauch/movie2/tuna-sandwich.jpg"
+    },
+    {
+      "id": "f34",
+      "name": "กล้วยหอม 1 ผล",
+      "kcal": 90,
+      "cat": "อาหารว่าง",
+      "uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cavendish_bananas_DS.jpg/1200px-Cavendish_bananas_DS.jpg"
+    },
+    {
+      "id": "f35",
+      "name": "มันฝรั่งอบ",
+      "kcal": 200,
+      "cat": "อาหารว่าง",
+      "uri": "https://fit-d.com/uploads/food/3d2245a5f972a69682c912b39bf05076.jpg"
+    },
+    {
+      "id": "f36",
+      "name": "สลัดผักรวม",
+      "kcal": 150,
+      "cat": "อาหารว่าง",
+      "uri": "https://img.wongnai.com/p/1920x0/2023/10/31/7db9146a9ab4434eb8f1315f80072f1b.jpg"
+    },
+    {
+      "id": "f37",
+      "name": "โปรตีนบาร์",
+      "kcal": 210,
+      "cat": "อาหารว่าง",
+      "uri": "https://www.cosmamarketing.co.th/wp-content/uploads/2025/04/PROTEIN-BAR-Chocolate-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B9%80%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%87.jpg"
+    },
+    {
+      "id": "f38",
+      "name": "ไข่ต้ม 2 ฟอง",
+      "kcal": 160,
+      "cat": "อาหารว่าง",
+      "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aN4vZv-ySpczg9jdueUtPCOamIqyHw-uxg&s"
+    },
+    {
+      "id": "f39",
+      "name": "ขนมปังโฮลวีต",
+      "kcal": 170,
+      "cat": "อาหารว่าง",
+      "uri": "https://s.isanook.com/he/0/ud/7/35401/wholewheat.jpg"
+    },
+    {
+      "id": "f40",
+      "name": "ผลไม้รวมถ้วยเล็ก",
+      "kcal": 140,
+      "cat": "อาหารว่าง",
+      "uri": "https://www.sentangsedtee.com/wp-content/uploads/2024/07/420961719_17958043481707325_5727315637635387341_n.jpg"
+    }
+  ]
+}
